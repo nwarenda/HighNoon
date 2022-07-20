@@ -7,7 +7,4 @@ Anywho, I hope you enjoy, please use the arrow keys to walk, and "space" to shoo
 
 Yee Haw!
 
-<img  display="block"
-  margin-left="auto"
-  margin-right="auto"
-  src="cowboyhat.png">
+<img style="align:right"src="cowboyhat.png">
