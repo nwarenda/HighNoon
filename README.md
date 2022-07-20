@@ -6,5 +6,6 @@ It is a simple game used to show how much I learned in my course, and is not mea
 Anywho, I hope you enjoy, please use the arrow keys to walk, and "space" to shoot, when prompted.
 
 Yee Haw!
-
-<img style="align:right"src="cowboyhat.png">
+<p align="center">
+  <img src="cowboyhat.png">
+</p>
